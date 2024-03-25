@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-pagination-bullet {
+  @apply border-2 border-teal-300 p-1 lg:p-2;
+}
+.swiper-pagination-bullet-active {
+  @apply !bg-teal-300;
+}
