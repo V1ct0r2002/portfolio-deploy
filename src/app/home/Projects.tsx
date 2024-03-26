@@ -21,9 +21,10 @@ export default function Projects({ isMobile }: any) {
           data-aos-duration='1000'
           className='max-w-2xl text-base md:text-xl mt-8 dark:text-neutral-200 text-center'
         >
-          I build beautiful projects with the latest technologies and
-          frameworks. I`m a passionate developers that love to build amazing
-          projects.
+          As I mentioned earlier, my enthusiasm for computer science sometimes
+          leads me to dive into my own projects in my spare time. Starting with
+          this portfolio, which I built from scratch, here are a few highlights
+          of what I've created!
         </div>
       </div>
       <Swiper
